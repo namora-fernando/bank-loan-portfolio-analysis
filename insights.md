@@ -6,6 +6,10 @@ This document summarizes the key insights obtained from the analysis of a retail
 
 ## 1. Portfolio Overview - Loan Outcome Distribution
 
+[View interactive dashboard on Tableau Public](https://public.tableau.com/app/profile/fernando.namora/viz/BankLoanPortfolioAnalysis/PortfolioOverview)
+
+![Portfolio Overview Dashboard](images/portfolio_overview.png)
+
 **Analytical Question**
 
 What is the overall distribution of loan outcomes in the portfolio?
