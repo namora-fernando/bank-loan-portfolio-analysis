@@ -92,7 +92,7 @@ Overall, loan outcomes appear to be driven by a combination of creditworthiness,
 
 [View interactive dashboard on Tableau Public](https://public.tableau.com/app/profile/fernando.namora/viz/BankLoanPortfolioAnalysis/CustomersProfile)
 
-![Risk Profile Analysis Dashboard](images/customers_profile.png)
+![Customers Profile Dashboard](images/customers_profile.png)
 
 **Analytical Question**
 
