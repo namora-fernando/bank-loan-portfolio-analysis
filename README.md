@@ -50,7 +50,7 @@ The project follows a structured, end-to-end process:
 - Comparison of borrower profiles across Fully Paid vs Charged Off loans
 - Segment-level exploration by loan purpose and credit problem history
 
-All steps above are documented in the Jupyter notebook.
+All steps above are documented in the Jupyter notebook [`bank_loan_portfolio_analysis.ipynb`](./bank_loan_portfolio_analysis.ipynb).
 
 ### 4. Interactive Dashboard Development (Tableau)
 - Creation of multiple dashboards to present findings clearly
@@ -58,7 +58,7 @@ All steps above are documented in the Jupyter notebook.
 - Interactive filters to explore patterns across loan status, purpose, and borrower characteristics
 
 ### 5. Insight Synthesis
-- Key observations and interpretations are summarized separately in `insights.md`
+- Key observations and interpretations are summarized separately in [`insights.md`](./insights.md)
 - Insights are written to reflect a business and risk-analysis perspective rather than technical output only
 
 ---
