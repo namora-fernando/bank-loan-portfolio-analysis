@@ -32,6 +32,10 @@ These results are consistent with the initial Python EDA, where loan status perc
 
 ## 2. Risk Profile Analysis – Borrower Characteristics vs Loan Status
 
+[View interactive dashboard on Tableau Public](https://public.tableau.com/app/profile/fernando.namora/viz/BankLoanPortfolioAnalysis/RiskProfileAnalysis)
+
+![Risk Profile Analysis Dashboard](images/risk_profile_analysis.png)
+
 **Analytical Question**
 
 How do borrower financial and credit characteristics differ between Fully Paid and Charged Off loans?
@@ -85,6 +89,10 @@ Overall, loan outcomes appear to be driven by a combination of creditworthiness,
 ---
 
 ## 3. Customer and Segment Risk Profile – Segment-Level Risk Drivers
+
+[View interactive dashboard on Tableau Public](https://public.tableau.com/app/profile/fernando.namora/viz/BankLoanPortfolioAnalysis/CustomersProfile)
+
+![Risk Profile Analysis Dashboard](images/customers_profile.png)
 
 **Analytical Question**
 
