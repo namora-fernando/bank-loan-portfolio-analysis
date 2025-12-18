@@ -1,8 +1,6 @@
 # Bank Loan Portfolio Analysis - Key Insights
 
-This document summarizes the key insights obtained from the analysis of a retail bank loan portfolio dataset sourced from Kaggle. <br>
-The dataset is used as a representative example of consumer lending data to simulate real-world portfolio risk analysis. <br>
-The analysis combines exploratory data analysis (EDA) using Python and interactive dashboards built in Tableau to examine loan performance, borrower risk characteristics, and segment-level credit risk patterns.
+This document summarizes the key insights obtained from the analysis of a retail bank loan portfolio dataset sourced from Kaggle. The dataset is used as a representative example of consumer lending data to simulate real-world portfolio risk analysis. The analysis combines exploratory data analysis (EDA) using Python and interactive dashboards built in Tableau to examine loan performance, borrower risk characteristics, and segment-level credit risk patterns.
 
 ---
 
