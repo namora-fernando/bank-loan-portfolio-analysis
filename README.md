@@ -79,7 +79,7 @@ The dashboards are published on Tableau Public and can be explored interactively
   https://public.tableau.com/app/profile/fernando.namora/viz/BankLoanPortfolioAnalysis/CustomersProfile <br>
   ![Customers Profile Dashboard](images/customers_profile.png)
 
-Screenshots of each dashboard are also included in the `images/` folder for quick reference.
+Screenshots of each dashboard are also included in the [`images/`](images/) folder for quick reference.
 
 ---
 
